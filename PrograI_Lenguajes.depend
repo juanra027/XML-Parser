@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506474870 source:/home/juanra/Documentos/C/PrograI_Lenguajes/main.c
+	<stdio.h>
+	<curl/curl.h>
+	<string.h>
+
